@@ -13,7 +13,7 @@
   + Well-supported by all HTTP clients and servers
   + Fits RESTful design perfectly
 ---
-+ Cases where it's not the best option to use:
++ Some cases where it's not the best option to use:
   + Real-time
   + Long-running requests
   + When you have complex workflow (a service that sends msg to another one and another one sends it to another)

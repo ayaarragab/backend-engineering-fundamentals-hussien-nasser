@@ -1,5 +1,5 @@
 # backend-engineering-fundamentals-hussien-nasser
-In this repository, I'll be summariziing what I learned from Backend Engineering Fundamentals Course made by Hussien Nasser.
+In this repository, I'll be writing my notes on what I learned from the Backend Engineering Fundamentals Course made by Hussien Nasser.
 
 ## Table Of Contents
 | Sections |

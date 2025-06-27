@@ -1,6 +1,8 @@
 # backend-engineering-fundamentals-hussien-nasser
 In this repository, I'll be writing my notes on what I learned from the Backend Engineering Fundamentals Course made by Hussien Nasser.
 
+ [Course Link](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?couponCode=ACCAGE0923)
+
 ## Table Of Contents
 | Sections |
 | ----- |

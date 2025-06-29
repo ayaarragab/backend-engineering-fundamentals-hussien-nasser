@@ -39,7 +39,7 @@ Remember we're only talking about `Backend` now, the style of processing that is
 
 ##### Asyncronous Backend processing
 + Here, backend **CAN** do sth while waiting.
- ![Simple Diagram about syncronous backend processing](../assets/sync-backend-chatGPT-generated-photo.png)
+ ![Simple Diagram about syncronous backend processing](../assets/async-backend-chatGPT-generated-photo.png)
 
   + Backend responds immeditely with a job id, client can later check if response is ready or not using this job id.
   + Backend doesn't have to be blocked untill job is completed, it can utilize the time to work on other jobs.

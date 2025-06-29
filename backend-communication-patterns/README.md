@@ -6,3 +6,4 @@ This section contains notes from the communication patterns in the backend.
 | ----- |
 |[1. Request/Response Model](./1-request-response.md) |
 |[2. Syncronous vs Asyncronous](./2-sync-async.md)|
+|[3. Push vs Poll](./3-push-vs-poll)|

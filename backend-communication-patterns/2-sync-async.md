@@ -2,10 +2,6 @@
 
 ## Here's my notes from Hussien Nasser's course "Backend Engineering Fundamentals" in its second section, 2nd video
 
-### Quick note before reading this 
-
-+ I'm focusing on making things make sense to whoever read these notes, as when I was studying I focused on this aspect too much, and because this course is mainly for SW engineers who had work experience in backend, it was a little bit hard to understand some concepts from the first moment, but the effort I did to understand paid off :)
-
 ### What does really asyncronous and syncronous mean?
 
 #### Here's a ChatGPT analogy that helped me ALOT
